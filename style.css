@@ -33,54 +33,68 @@ h1 {
     border-radius: 5px;
     margin: 1.5px;
     cursor: pointer;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    padding: 50px 0;
 }
 
 .col11 {
     background: rgb(255, 92, 92);
     transition: all 0.4s ease-in;
+    color: white;
 }
 
 .col12 {
     background: rgb(236, 145, 160);
     transition: all 0.4s ease-in;
+    color: white;
 }
 
 .col13 {
     background: rgb(99, 144, 202);
     transition: all 0.4s ease-in;
+    color: white;
 }
 
 .col21 {
     background: rgb(80, 68, 190);
     transition: all 0.4s ease-in;
+    color: white;
 }
 
 .col22 {
     background: rgb(207, 170, 100);
     transition: all 0.4s ease-in;
+    color: white;
 }
 
 .col23 {
     background: rgb(146, 49, 138);
     transition: all 0.4s ease-in;
+    color: white;
 }
 
 .col31 {
     background: rgb(104, 84, 109);
     transition: all 0.4s ease-in;
+    color: white;
 }
 
 .col32 {
     background: rgb(150, 122, 85);
     transition: all 0.4s ease-in;
+    color: white;
 }
 
 .col33 {
     background: rgb(83, 156, 120);
     transition: all 0.4s ease-in;
+    color: white;
 }
 
 .bday {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(129, 36, 129);
+    color: white;
 }

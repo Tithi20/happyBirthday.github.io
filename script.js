@@ -26,6 +26,7 @@ function func1() {
 
     audio1.play();
     happy.textContent = "play with it";
+
     happy.classList.remove("bday");
 }
 
@@ -53,7 +54,7 @@ function fun2() {
 function func3() {
     col13.classList.toggle("col13");
     audio3.play();
-    happy.textContent = "happy birthday";
+    happy.textContent = "happy birthday Parnava ";
     happy.classList.add("bday");
 }
 
@@ -82,6 +83,7 @@ function fun4() {
 function func5() {
     col22.classList.toggle("col22");
     audio5.play();
+    col22.classList.toggle("col22x")
     happy.textContent = "play with it";
     happy.classList.remove("bday");
 
@@ -127,7 +129,7 @@ function fun7() {
 function func8() {
     col32.classList.toggle("col32");
     audio8.play();
-    happy.textContent = "Happy Birthday"
+    happy.textContent = "Happy Birthday Parnava"
     happy.classList.add("bday");
 }
 
@@ -141,7 +143,7 @@ function fun8() {
 function func9() {
     col33.classList.toggle("col33");
     audio9.play();
-    happy.textContent = "i love you"
+    happy.textContent = "i love you Baby"
     happy.classList.add("bday");
 }
 
